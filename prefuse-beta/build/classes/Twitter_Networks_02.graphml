@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--  An excerpt of an egocentric social network  --><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="directed">
+
+<!-- data schema --><key attr.name="name" attr.type="string" for="node" id="name"/>
+
+<!-- Nodes --><node id="256419571">
+ <data key="name">fouad9966</data>
+</node>
+
+<node id="165007533">
+ <data key="name">kmsh9</data>
+</node>
+
+<node id="443848016">
+ <data key="name">shm1411</data>
+</node>
+
+<node id="572108899">
+ <data key="name">khameesalsadi</data>
+</node>
+
+<node id="64066799">
+ <data key="name">DAM_UNITED</data>
+</node>
+
+<node id="359612336">
+ <data key="name">Almouammr</data>
+</node>
+
+<node id="386753206">
+ <data key="name">tdawul_saudi</data>
+</node>
+
+<node id="597891955">
+ <data key="name">mokhrepashom</data>
+</node>
+
+<node id="255936207">
+ <data key="name">A_BARAK</data>
+</node>
+
+<node id="425206878">
+ <data key="name">admz123</data>
+</node>
+
+<node id="179279363">
+ <data key="name">ManeaSayal</data>
+</node>
+
+<node id="862435968">
+ <data key="name">h_borsah</data>
+</node>
+
+<node id="254656331">
+ <data key="name">alshararfi</data>
+</node>
+
+<node id="403014777">
+ <data key="name">BinSolaiman</data>
+</node>
+
+<node id="300136050">
+ <data key="name">saudi_shares</data>
+</node>
+
+<node id="360223185">
+ <data key="name">alarbi11</data>
+</node>
+
+<node id="491083492">
+ <data key="name">mgeb1</data>
+</node>
+
+<node id="514766519">
+ <data key="name">240alghat</data>
+</node>
+
+<node id="524208371">
+ <data key="name">retweet_ashom</data>
+</node>
+
+<node id="310966554">
+ <data key="name">ialshamik</data>
+</node>
+
+<node id="255078236">
+ <data key="name">MutlaqAlbuqami</data>
+</node>
+
+<node id="615217980">
+ <data key="name">reyuf1</data>
+</node>
+
+<node id="612329417">
+ <data key="name">ksa_tdwl</data>
+</node>
+
+<node id="361609122">
+ <data key="name">MohmadALRwuiliy</data>
+</node>
+
+
+
+<!-- EndNodes -->
+
+<!-- Edges --><edge source="179279363" target="64066799"/>
+<edge source="179279363" target="386753206"/>
+<edge source="179279363" target="612329417"/>
+<edge source="179279363" target="359612336"/>
+<edge source="179279363" target="255936207"/>
+<edge source="179279363" target="256419571"/>
+<edge source="179279363" target="361609122"/>
+<edge source="403014777" target="359612336"/>
+<edge source="64066799" target="179279363"/>
+<edge source="64066799" target="386753206"/>
+<edge source="64066799" target="359612336"/>
+<edge source="386753206" target="179279363"/>
+<edge source="386753206" target="64066799"/>
+<edge source="310966554" target="386753206"/>
+<edge source="310966554" target="255936207"/>
+<edge source="612329417" target="403014777"/>
+<edge source="612329417" target="179279363"/>
+<edge source="612329417" target="386753206"/>
+<edge source="612329417" target="64066799"/>
+<edge source="612329417" target="300136050"/>
+<edge source="612329417" target="359612336"/>
+<edge source="612329417" target="443848016"/>
+<edge source="612329417" target="514766519"/>
+<edge source="612329417" target="254656331"/>
+<edge source="612329417" target="597891955"/>
+<edge source="862435968" target="64066799"/>
+<edge source="425206878" target="254656331"/>
+<edge source="862435968" target="359612336"/>
+<edge source="862435968" target="386753206"/>
+<edge source="862435968" target="514766519"/>
+<edge source="862435968" target="615217980"/>
+<edge source="862435968" target="361609122"/>
+<edge source="862435968" target="254656331"/>
+<edge source="862435968" target="443848016"/>
+<edge source="862435968" target="360223185"/>
+<edge source="359612336" target="64066799"/>
+<edge source="359612336" target="612329417"/>
+<edge source="359612336" target="179279363"/>
+<edge source="359612336" target="403014777"/>
+<edge source="359612336" target="255936207"/>
+<edge source="359612336" target="443848016"/>
+<edge source="359612336" target="862435968"/>
+<edge source="359612336" target="491083492"/>
+<edge source="359612336" target="597891955"/>
+<edge source="359612336" target="361609122"/>
+<edge source="359612336" target="360223185"/>
+<edge source="359612336" target="256419571"/>
+<edge source="491083492" target="64066799"/>
+<edge source="491083492" target="403014777"/>
+<edge source="491083492" target="179279363"/>
+<edge source="359612336" target="254656331"/>
+<edge source="491083492" target="255936207"/>
+<edge source="491083492" target="359612336"/>
+<edge source="491083492" target="612329417"/>
+<edge source="491083492" target="386753206"/>
+<edge source="491083492" target="361609122"/>
+<edge source="491083492" target="597891955"/>
+<edge source="491083492" target="443848016"/>
+<edge source="491083492" target="615217980"/>
+
+
+<edge source="255936207" target="179279363"/>
+<edge source="491083492" target="165007533"/>
+<edge source="514766519" target="179279363"/>
+<edge source="514766519" target="386753206"/>
+<edge source="443848016" target="179279363"/>
+<edge source="443848016" target="64066799"/>
+<edge source="255936207" target="256419571"/>
+
+<edge source="255078236" target="255936207"/>
+<edge source="255078236" target="572108899"/>
+<edge source="443848016" target="597891955"/>
+<edge source="443848016" target="165007533"/>
+<edge source="443848016" target="254656331"/>
+<edge source="360223185" target="359612336"/>
+<edge source="443848016" target="386753206"/>
+<edge source="443848016" target="425206878"/>
+<edge source="443848016" target="359612336"/>
+<edge source="443848016" target="615217980"/>
+<edge source="597891955" target="612329417"/>
+<edge source="597891955" target="386753206"/>
+<edge source="597891955" target="359612336"/>
+<edge source="597891955" target="425206878"/>
+<edge source="256419571" target="179279363"/>
+<edge source="360223185" target="254656331"/>
+<edge source="256419571" target="255936207"/>
+<edge source="256419571" target="359612336"/>
+<edge source="597891955" target="524208371"/>
+<edge source="597891955" target="254656331"/>
+<edge source="361609122" target="386753206"/>
+<edge source="361609122" target="179279363"/>
+<edge source="597891955" target="300136050"/>
+<edge source="597891955" target="491083492"/>
+<edge source="597891955" target="443848016"/>
+<edge source="597891955" target="615217980"/>
+<edge source="361609122" target="165007533"/>
+<edge source="361609122" target="254656331"/>
+<edge source="361609122" target="615217980"/>
+<edge source="361609122" target="360223185"/>
+<edge source="361609122" target="491083492"/>
+<edge source="361609122" target="300136050"/>
+<edge source="361609122" target="862435968"/>
+<edge source="361609122" target="359612336"/>
+<edge source="254656331" target="425206878"/>
+<edge source="254656331" target="862435968"/>
+<edge source="254656331" target="386753206"/>
+<edge source="254656331" target="612329417"/>
+<edge source="254656331" target="403014777"/>
+<edge source="254656331" target="64066799"/>
+<edge source="165007533" target="491083492"/>
+<edge source="254656331" target="179279363"/>
+<edge source="254656331" target="597891955"/>
+<edge source="254656331" target="360223185"/>
+<edge source="254656331" target="443848016"/>
+<edge source="254656331" target="514766519"/>
+<edge source="254656331" target="300136050"/>
+<edge source="254656331" target="255936207"/>
+<edge source="254656331" target="491083492"/>
+<edge source="254656331" target="359612336"/>
+<edge source="524208371" target="443848016"/>
+<edge source="524208371" target="300136050"/>
+<edge source="524208371" target="491083492"/>
+<edge source="524208371" target="612329417"/>
+<edge source="524208371" target="386753206"/>
+<edge source="524208371" target="64066799"/>
+<edge source="254656331" target="165007533"/>
+<edge source="254656331" target="361609122"/>
+<edge source="524208371" target="165007533"/>
+<edge source="524208371" target="361609122"/>
+<edge source="572108899" target="255078236"/>
+<edge source="524208371" target="254656331"/>
+<edge source="572108899" target="254656331"/>
+
+<!--End Edges-->
+</graph>
+</graphml>

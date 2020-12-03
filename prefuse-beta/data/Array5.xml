@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  An excerpt of an egocentric social network  -->
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="directed">
+ 
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="InDegree" for="node" attr.name="InDegree" attr.type="int"/>
+<!--Nodes-->
+
+<node id="474886468">
+ <data key="name">@SaudiNews50</data>
+</node>
+
+
+<node id="447308615">
+ <data key="name">@Reri21</data>
+</node>
+<node id="620089727">
+ <data key="name">@alnaiafalsaud</data>
+</node>
+<node id="514438689">
+ <data key="name">@yara1kk</data>
+</node>
+<node id="371538399">
+ <data key="name">@jojo_saud</data>
+</node>
+<node id="294720696">
+ <data key="name">@layanhasn</data>
+</node>
+<node id="602266354">
+ <data key="name">@shams99aa</data>
+</node>
+<node id="306149326">
+ <data key="name">@bo3thman_q8</data>
+</node>
+<node id="343555776">
+ <data key="name">@tamam460</data>
+</node>
+<node id="515203882">
+ <data key="name">@KhzemAltaher</data>
+</node>
+<node id="368623865">
+ <data key="name">@aboshahad12345</data>
+</node>
+<node id="583336038">
+ <data key="name">@mmlw7hh</data>
+</node>
+<node id="165410875">
+ <data key="name">@__ReeeM</data>
+</node>
+<node id="451540070">
+ <data key="name">@ENGLOST1</data>
+</node>
+<node id="283018640">
+ <data key="name">@yawy1</data>
+</node>
+<node id="247432719">
+ <data key="name">@x2x1x0</data>
+</node>
+<node id="399984827">
+ <data key="name">@ksamoody</data>
+</node>
+<node id="375594593">
+ <data key="name">@MoshababWaalan</data>
+</node>
+<node id="457077580">
+ <data key="name">@OSattam</data>
+</node>
+<node id="354476652">
+ <data key="name">@fayezalgarni</data>
+</node>
+<node id="149709860">
+ <data key="name">@Ghada702</data>
+</node>
+<node id="479834483">
+ <data key="name">@NaifWaalan</data>
+</node>
+<node id="343984239">
+ <data key="name">@alzaben15</data>
+</node>
+<node id="410280015">
+ <data key="name">@Abeer_Enn</data>
+</node>
+<node id="586616605">
+ <data key="name">@bnotaq8_</data>
+</node>
+<node id="371406172">
+ <data key="name">@MohedAlZarooni</data>
+</node>
+<node id="443862170">
+ <data key="name">@hanonah_</data>
+</node>
+<node id="421202657">
+ <data key="name">@wateen93</data>
+</node>
+<node id="607586640">
+ <data key="name">@mros121</data>
+</node>
+<node id="536625934">
+ <data key="name">@Frhan8181</data>
+</node>
+<node id="469099040">
+ <data key="name">@aziz8720</data>
+</node>
+<node id="447319925">
+ <data key="name">@AbeerAl_Sheikh</data>
+</node>
+<node id="365683726">
+ <data key="name">@abdullah111112</data>
+</node>
+<node id="414888352">
+ <data key="name">@badrony911</data>
+</node>
+<node id="444029586">
+ <data key="name">@mohalabdalai</data>
+</node>
+<node id="607316003">
+ <data key="name">@PhotoTaste</data>
+</node>
+<node id="356284126">
+ <data key="name">@owyed</data>
+</node>
+<node id="305781368">
+ <data key="name">@AliAlturki1433</data>
+</node>
+<node id="356284126">
+ <data key="name">@owyed</data>
+</node>
+<node id="360333099">
+ <data key="name">@MeRoO_ALGamdi</data>
+</node>
+<node id="263321533">
+ <data key="name">@aalkhofi</data>
+</node>
+<node id="210132577">
+ <data key="name">@maged7788</data>
+</node>
+<node id="478566462">
+ <data key="name">@MajedMsh</data>
+</node>
+<node id="488807709">
+ <data key="name">@noab2001</data>
+</node>
+<node id="549707459">
+ <data key="name">@M_Al_Saud</data>
+</node>
+<node id="244964190">
+ <data key="name">@fofo1001</data>
+</node>
+<node id="77091370">
+ <data key="name">@prince2088</data>
+</node>
+<node id="274284814">
+ <data key="name">@aurorapeantees</data>
+</node>
+<node id="382301635">
+ <data key="name">@maldhaif1</data>
+</node>
+<node id="367957131">
+ <data key="name">@a_a_almajed</data>
+</node>
+<node id="516257357">
+ <data key="name">@FahadAbuaiesha</data>
+</node>
+<node id="403656339">
+ <data key="name">@al_braens1</data>
+</node>
+<node id="593984071">
+ <data key="name">@Salaf_4</data>
+</node>
+<node id="360734392">
+ <data key="name">@wmukheld</data>
+</node>
+<node id="411584266">
+ <data key="name">@mzuud</data>
+</node>
+<node id="476028502">
+ <data key="name">@albanwe</data>
+</node>
+<node id="500289776">
+ <data key="name">@ghaloo00</data>
+</node>
+<node id="131816852">
+ <data key="name">@dno00o</data>
+</node>
+<node id="609663367">
+ <data key="name">@E7shanady20</data>
+</node>
+<node id="609663367">
+ <data key="name">@E7shanady20</data>
+</node>
+<node id="388733770">
+ <data key="name">@AnasAlnafisah</data>
+</node>
+<node id="414138520">
+ <data key="name">@wedad_1</data>
+</node>
+<node id="601490415">
+ <data key="name">@Flower3Jojo</data>
+</node>
+<node id="382580069">
+ <data key="name">@essa1009</data>
+</node>
+<node id="350382445">
+ <data key="name">@khaled0o01</data>
+</node>
+<node id="321934920">
+ <data key="name">@meshari_a</data>
+</node>
+<node id="450065634">
+ <data key="name">@norahalotibi</data>
+</node>
+<node id="324898434">
+ <data key="name">@abo_rayed</data>
+</node>
+<node id="224536976">
+ <data key="name">@Lolly_ksa</data>
+</node>
+<node id="220432343">
+ <data key="name">@Abo_moad</data>
+</node>
+<node id="249547609">
+ <data key="name">@ebrahimalhazani</data>
+</node>
+<node id="432000253">
+ <data key="name">@HanoufQ</data>
+</node>
+<node id="394170127">
+ <data key="name">@MAlmuaiqel</data>
+</node>
+<node id="609533894">
+ <data key="name">@nony_50</data>
+</node>
+<node id="355032470">
+ <data key="name">@abohkem</data>
+</node>
+<node id="493563032">
+ <data key="name">@shabibalzabi</data>
+</node>
+<node id="533352532">
+ <data key="name">@AA65403918</data>
+</node>
+<node id="430966977">
+ <data key="name">@meemooibraheem</data>
+</node>
+<node id="535833065">
+ <data key="name">@abofaai</data>
+</node>
+<node id="475817441">
+ <data key="name">@abo_aboabdallh</data>
+</node>
+<node id="473458574">
+ <data key="name">@SomaAbduallah</data>
+</node>
+<node id="152027423">
+ <data key="name">@follow4ksa</data>
+</node>
+<node id="245936046">
+ <data key="name">@abanomay</data>
+</node>
+<node id="262085303">
+ <data key="name">@saodanzi</data>
+</node>
+<node id="456239282">
+ <data key="name">@fahadalanezi99</data>
+</node>
+<node id="427431180">
+ <data key="name">@faisal_fun</data>
+</node>
+<node id="61898252">
+ <data key="name">@bargawi2</data>
+</node>
+<node id="335405375">
+ <data key="name">@sltn99</data>
+</node>
+<node id="371201784">
+ <data key="name">@iMasaud</data>
+</node>
+<node id="299685958">
+ <data key="name">@kahlidalmoosa</data>
+</node>
+<node id="531611080">
+ <data key="name">@abdallhshrane</data>
+</node>
+<node id="192878094">
+ <data key="name">@iOsama_Saad</data>
+</node>
+<node id="348821934">
+ <data key="name">@saadmegren</data>
+</node>
+<node id="484577067">
+ <data key="name">@aboreanh</data>
+</node>
+<node id="516885719">
+ <data key="name">@azzansiyabi</data>
+</node>
+<node id="323111387">
+ <data key="name">@ibahimssami</data>
+</node>
+<node id="449658627">
+ <data key="name">@mshary118</data>
+</node>
+<node id="559912600">
+ <data key="name">@mnyma99</data>
+</node>
+<node id="279941131">
+ <data key="name">@BENT_3IZ</data>
+</node>
+<node id="462647881">
+ <data key="name">@sultan_ss_18</data>
+</node>
+<node id="59900184">
+ <data key="name">@Alkuwari09</data>
+</node>
+<node id="328138922">
+ <data key="name">@mahasubaie</data>
+</node>
+<node id="402259335">
+ <data key="name">@208Hanooo</data>
+</node>
+<node id="490437745">
+ <data key="name">@meehave333</data>
+</node>
+<node id="165190097">
+ <data key="name">@ahmad2man</data>
+</node>
+<node id="165210869">
+ <data key="name">@almetowazi</data>
+</node>
+<node id="462321450">
+ <data key="name">@aass9010</data>
+</node>
+<node id="334315998">
+ <data key="name">@almana101</data>
+</node>
+<node id="359025295">
+ <data key="name">@A11hussain</data>
+</node>
+<node id="443028984">
+ <data key="name">@AboRimas2</data>
+</node>
+<node id="385628482">
+ <data key="name">@noufaa_86</data>
+</node>
+<node id="545829332">
+ <data key="name">@lipstick22b</data>
+</node>
+<node id="289587675">
+ <data key="name">@da7omy770</data>
+</node>
+<node id="525806364">
+ <data key="name">@2941406</data>
+</node>
+<node id="359816014">
+ <data key="name">@ysoomah</data>
+</node>
+<node id="405981986">
+ <data key="name">@khawla227</data>
+</node>
+<node id="546811241">
+ <data key="name">@Mohammed_alrmeh</data>
+</node>
+<node id="332989933">
+ <data key="name">@hamoudi_alrmeh</data>
+</node>
+<node id="375291750">
+ <data key="name">@aljaddua</data>
+</node>
+<node id="325249251">
+ <data key="name">@zozo181</data>
+</node>
+<node id="450810460">
+ <data key="name">@abonaoaf123</data>
+</node>
+<node id="348718464">
+ <data key="name">@zai_alsokar</data>
+</node>
+<node id="351017257">
+ <data key="name">@naS_Ser2020</data>
+</node>
+<node id="553791507">
+ <data key="name">@moony_jojo</data>
+</node>
+<node id="447369043">
+ <data key="name">@10_madi</data>
+</node>
+<node id="363054717">
+ <data key="name">@mashelalosimi</data>
+</node>
+<node id="324354647">
+ <data key="name">@7naan_</data>
+</node>
+<node id="546173604">
+ <data key="name">@6ma6aaah1</data>
+</node>
+<node id="430382464">
+ <data key="name">@maheeer200</data>
+</node>
+<node id="265613458">
+ <data key="name">@alnfe3e</data>
+</node>
+<node id="425759362">
+ <data key="name">@MamdouhAbdoun</data>
+</node>
+<node id="243789342">
+ <data key="name">@5olouda</data>
+</node>
+<node id="463245227">
+ <data key="name">@abduallrhman100</data>
+</node>
+<node id="463245227">
+ <data key="name">@abduallrhman100</data>
+</node>
+<node id="349697053">
+ <data key="name">@MaNaLfh</data>
+</node>
+<node id="441036464">
+ <data key="name">@GarniAbdullah</data>
+</node>
+<node id="366509291">
+ <data key="name">@AbdlazizAlharbi</data>
+</node>
+<node id="97657742">
+ <data key="name">@Mr_Alenezi</data>
+</node>
+<node id="187375970">
+ <data key="name">@FooFaH_</data>
+</node>
+<node id="433288215">
+ <data key="name">@nad3r295</data>
+</node>
+<node id="584277936">
+ <data key="name">@k_alangari2</data>
+</node>
+<node id="249538267">
+ <data key="name">@fahad_alsaleh1</data>
+</node>
+<node id="384465028">
+ <data key="name">@Sawah25Hotmail</data>
+</node>
+<node id="420986590">
+ <data key="name">@um__fai9al</data>
+</node>
+<node id="560572163">
+ <data key="name">@ALSSEQEH</data>
+</node>
+<node id="547790622">
+ <data key="name">@BShalawi</data>
+</node>
+<node id="482403167">
+ <data key="name">@Balnofiei</data>
+</node>
+<node id="402227515">
+ <data key="name">@sami_almousa</data>
+</node>
+<node id="406646952">
+ <data key="name">@AboAdla</data>
+</node>
+<node id="384235536">
+ <data key="name">@jnon_alshog</data>
+</node>
+<node id="433598005">
+ <data key="name">@wael2044</data>
+</node>
+<node id="450734484">
+ <data key="name">@T0oOT</data>
+</node>
+<node id="396559035">
+ <data key="name">@sultan8797</data>
+</node>
+<node id="399462546">
+ <data key="name">@_ghada1992</data>
+</node>
+<node id="487082897">
+ <data key="name">@r8338r</data>
+</node>
+<node id="420528494">
+ <data key="name">@Huda195</data>
+</node>
+<node id="410118688">
+ <data key="name">@safaawesal1</data>
+</node>
+<node id="401350484">
+ <data key="name">@bin_jumah</data>
+</node>
+<node id="425640498">
+ <data key="name">@S66H</data>
+</node>
+<node id="248701120">
+ <data key="name">@maljuhanii</data>
+</node>
+<node id="392272533">
+ <data key="name">@yaahajri</data>
+</node>
+<node id="445699461">
+ <data key="name">@awadh1991</data>
+</node>
+<node id="554462227">
+ <data key="name">@HadeelAlmanabry</data>
+</node>
+<node id="188446096">
+ <data key="name">@sh0rouq</data>
+</node>
+<node id="408978487">
+ <data key="name">@shammerih</data>
+</node>
+<node id="250709840">
+ <data key="name">@hannooti</data>
+</node>
+<node id="392909891">
+ <data key="name">@SultanAltaleb</data>
+</node>
+<node id="242030206">
+ <data key="name">@bader136</data>
+</node>
+<node id="257834220">
+ <data key="name">@7madHani</data>
+</node>
+<node id="402047684">
+ <data key="name">@ittihad80</data>
+</node>
+<node id="328696983">
+ <data key="name">@SaLmAn075</data>
+</node>
+<node id="55164940">
+ <data key="name">@Badro0oz</data>
+</node>
+<node id="424362188">
+ <data key="name">@eng_Abdalaziz</data>
+</node>
+<node id="264931815">
+ <data key="name">@DOLCE_87</data>
+</node>
+<node id="395777115">
+ <data key="name">@r200537</data>
+</node>
+<node id="369901580">
+ <data key="name">@alhammad_s</data>
+</node>
+<node id="361619921">
+ <data key="name">@M_Alhumadani</data>
+</node>
+<node id="328662383">
+ <data key="name">@BSH_2011</data>
+</node>
+<node id="262581747">
+ <data key="name">@mayosha11</data>
+</node>
+<node id="450474757">
+ <data key="name">@a_alsaban</data>
+</node>
+<node id="389072728">
+ <data key="name">@AbdullahAlhar16</data>
+</node>
+<node id="573188375">
+ <data key="name">@SaraAbdullah_77</data>
+</node>
+<node id="61433626">
+ <data key="name">@mohmedalQwaifli</data>
+</node>
+<node id="328016631">
+ <data key="name">@F_M_Alfehaid</data>
+</node>
+<node id="348724824">
+ <data key="name">@HAAN5</data>
+</node>
+<node id="472547939">
+ <data key="name">@AbraarMoh</data>
+</node>
+<node id="307024492">
+ <data key="name">@msalateeqi</data>
+</node>
+<node id="411021270">
+ <data key="name">@yaser_alkenany</data>
+</node>
+<node id="376722173">
+ <data key="name">@noorh67</data>
+</node>
+<node id="582171375">
+ <data key="name">@farary511</data>
+</node>
+<node id="234796836">
+ <data key="name">@NadaAs</data>
+</node>
+<node id="292516299">
+ <data key="name">@M_2LRABA7</data>
+</node>
+<node id="338257097">
+ <data key="name">@m7md9091</data>
+</node>
+<!--EndNodes-->
+<!-- edges -->
+
+<edge source="371538399"	target="514438689"></edge>
+<edge source="514438689"	target="371538399"></edge>
+<!--Sleep-->
+<edge source="399984827"	target="474886468"></edge>
+<edge source="343984239"	target="474886468"></edge>
+<edge source="447319925"	target="474886468"></edge>
+<edge source="444029586"	target="474886468"></edge>
+<edge source="210132577"	target="474886468"></edge>
+<edge source="244964190"	target="474886468"></edge>
+<edge source="411584266"	target="474886468"></edge>
+<edge source="450065634"	target="474886468"></edge>
+<edge source="220432343"	target="474886468"></edge>
+<edge source="533352532"	target="474886468"></edge>
+<edge source="473458574"	target="474886468"></edge>
+<edge source="531611080"	target="474886468"></edge>
+<edge source="559912600"	target="474886468"></edge>
+<edge source="402259335"	target="474886468"></edge>
+<edge source="289587675"	target="474886468"></edge>
+<edge source="359816014"	target="474886468"></edge>
+<edge source="463245227"	target="474886468"></edge>
+<edge source="463245227"	target="474886468"></edge>
+<edge source="441036464"	target="474886468"></edge>
+<edge source="482403167"	target="474886468"></edge>
+<edge source="406646952"	target="474886468"></edge>
+<edge source="392272533"	target="474886468"></edge>
+<edge source="242030206"	target="474886468"></edge>
+<edge source="264931815"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="536625934"	target="294720696"></edge>
+<edge source="294720696"	target="536625934"></edge>
+<!--Sleep-->
+<edge source="620089727" 	target="447308615"></edge>
+<edge source="447308615" 	target="620089727"></edge>
+<!--sleep-->
+<edge source="210132577"	target="365683726"></edge>
+<edge source="77091370"		target="365683726"></edge>
+<!--Sleep-->
+<edge source="305781368"	target="444029586"></edge>
+
+<!--Sleep-->
+<edge source="414888352"	target="356284126"></edge>
+<edge source="607316003"	target="356284126"></edge>
+<!--Sleep-->
+<edge source="444029586"	target="305781368"></edge>
+<edge source="263321533"	target="305781368"></edge>
+<!--sleep-->
+<!--sleep-->
+<edge source="77091370"		target="360333099"></edge>
+<!--sleep-->
+<edge source="305781368"	target="263321533"></edge>
+<edge source="360333099"	target="263321533"></edge>
+<edge source="210132577"	target="263321533"></edge>
+<edge source="516257357"	target="263321533"></edge>
+<!--sleep-->
+<edge source="263321533"	target="210132577"></edge>
+<edge source="77091370"		target="210132577"></edge>
+<edge source="365683726"	target="210132577"></edge>
+<!--sleep-->
+<edge source="478566462"	target="375291750"></edge>
+<edge source="478566462"	target="375291750"></edge>
+<edge source="478566462"	target="307024492"></edge>
+<edge source="478566462"	target="165410875"></edge>
+<!--sleep-->
+<edge source="210132577"	target="77091370"></edge>
+<edge source="210132577"	target="165190097"></edge>
+<edge source="210132577"	target="338257097"></edge>
+<!--sleep-->
+<edge source="414138520"	target="355032470"></edge>
+<!--sleep-->
+<edge source="382580069"	target="348821934"></edge>
+<edge source="382580069"	target="292516299"></edge>
+<!--sleep-->
+<edge source="516257357"	target="382301635"></edge>
+<!--sleep-->
+<edge source="463245227"	target="447369043"></edge>
+<!--sleep-->
+<edge source="403656339"	target="165190097"></edge>
+<edge source="403656339"	target="474886468"></edge>
+<edge source="403656339"	target="546811241"></edge>
+<!--Sleep-->
+<edge source="546811241"	target="332989933"></edge>
+<edge source="546811241"	target="375291750"></edge>
+<edge source="546811241"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="375291750"	target="332989933"></edge>
+<!--Sleep-->
+<edge source="332989933"	target="546811241"></edge>
+<edge source="332989933"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="360734392"	target="375291750"></edge>
+<edge source="360734392"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="411584266"	target="165410875"></edge>
+<!--Sleep-->
+<edge source="165410875"	target="348821934"></edge>
+<edge source="165410875"	target="338257097"></edge>
+<edge source="165410875"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="348821934"	target="382580069"></edge>
+<edge source="348821934"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="338257097"	target="328016631"></edge>
+<edge source="338257097"	target="292516299"></edge>
+<!--Sleep-->
+<edge source="328016631"	target="152027423"></edge>
+<edge source="328016631"	target="292516299"></edge>
+<edge source="328016631"	target="338257097"></edge>
+<edge source="328016631"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="152027423"	target="165190097"></edge>
+<edge source="152027423"	target="402227515"></edge>
+<edge source="152027423"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="292516299"	target="55164940"></edge>
+<edge source="292516299"	target="361619921"></edge>
+<edge source="292516299"	target="338257097"></edge>
+<edge source="292516299"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="165190097"	target="462321450"></edge>
+<!--Sleep-->
+<edge source="402227515"	target="560572163"></edge>
+<!--Sleep-->
+<edge source="55164940"		target="292516299"></edge>
+<edge source="55164940"		target="338257097"></edge>
+<!--Sleep-->
+<edge source="462321450"	target="165190097"></edge>
+<!--Sleep-->
+<edge source="560572163"	target="402227515"></edge>
+<edge source="560572163"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="321934920"	target="338257097"></edge>
+<!--Sleep-->
+<edge source="324898434"	target="355032470"></edge>
+<!--Sleep-->
+<edge source="224536976"	target="411021270"></edge>
+<edge source="224536976"	target="338257097"></edge>
+<edge source="224536976"	target="474886468"></edge>
+<!--Sleep-->
+<edge source="411021270"	target="152027423"></edge>
+<edge source="411021270"	target="396559035"></edge>
+<edge source="411021270"	target="234796836"></edge>
+<edge source="411021270"	target="474886468"></edge> 
+<!--Sleep-->
+<edge source="220432343"	target="249547609"></edge>
+<edge source="220432343"	target="375291750"></edge>
+<edge source="220432343"	target="487082897"></edge>
+<!--Sleep-->
+<edge source="249547609"	target="348821934"></edge>
+<edge source="249547609"	target="474886468"></edge>
+
+
+<!--End Edges-->
+</graph>
+</graphml>

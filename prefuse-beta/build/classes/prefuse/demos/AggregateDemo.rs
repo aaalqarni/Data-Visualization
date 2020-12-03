@@ -1,0 +1,3 @@
+prefuse.demos.AggregateDemo
+prefuse.demos.AggregateDragControl
+prefuse.demos.AggregateLayout

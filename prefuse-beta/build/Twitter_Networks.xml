@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  An excerpt of an egocentric social network  --> 
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="directed">
+
+<!-- data schema --><key id="name" for="node" attr.name="name" attr.type="string"/>
+
+<!-- Nodes --><node id="252749024">
+ <data key="name">nawafaaa</data>
+</node>
+
+<node id="333545053">
+ <data key="name">AdilAlFahim</data>
+</node>
+
+<node id="383549522">
+ <data key="name">ktkut</data>
+</node>
+
+<node id="948241249">
+ <data key="name">psaudic</data>
+</node>
+
+<node id="773944">
+ <data key="name">essamz</data>
+</node>
+
+<node id="246921377">
+ <data key="name">qunaibet</data>
+</node>
+
+<node id="360748450">
+ <data key="name">Mo_Alsuwayed</data>
+</node>
+
+<node id="144911505">
+ <data key="name">ibrahim_alnasri</data>
+</node>
+
+<node id="386753206">
+ <data key="name">tdawul_saudi</data>
+</node>
+
+<node id="355140179">
+ <data key="name">FadiAlajaji</data>
+</node>
+
+<node id="257104223">
+ <data key="name">BADR_ALRAJHI</data>
+</node>
+
+<node id="513274331">
+ <data key="name">shashah2012</data>
+</node>
+
+<node id="304257600">
+ <data key="name">khaledth1</data>
+</node>
+
+<node id="179279363">
+ <data key="name">ManeaSayal</data>
+</node>
+
+<node id="507809598">
+ <data key="name">TASI_KSA</data>
+</node>
+
+<node id="627675257">
+ <data key="name">hebahaifa</data>
+</node>
+
+<node id="518824708">
+ <data key="name">alsultanam</data>
+</node>
+
+<node id="245263325">
+ <data key="name">jbanoon</data>
+</node>
+
+<node id="209502852">
+ <data key="name">Khalid_almazroa</data>
+</node>
+
+<node id="475592140">
+ <data key="name">AbunawafAlotabi</data>
+</node>
+
+
+
+<!-- EndNodes -->
+
+<!-- Edges --><edge source="360748450"	target="179279363"></edge>
+<edge source="360748450"	target="355140179"></edge>
+<edge source="386753206"	target="179279363"></edge>
+<edge source="475592140"	target="179279363"></edge>
+<edge source="179279363"	target="360748450"></edge>
+<edge source="179279363"	target="386753206"></edge>
+<edge source="179279363"	target="257104223"></edge>
+<edge source="179279363"	target="209502852"></edge>
+<edge source="179279363"	target="355140179"></edge>
+<edge source="179279363"	target="360748450"></edge>
+<edge source="513274331"	target="773944"></edge>
+<edge source="513274331"	target="360748450"></edge>
+<edge source="513274331"	target="386753206"></edge>
+<edge source="513274331"	target="507809598"></edge>
+<edge source="513274331"	target="383549522"></edge>
+<edge source="513274331"	target="360748450"></edge>
+<edge source="513274331"	target="355140179"></edge>
+<edge source="383549522"	target="773944"></edge>
+<edge source="507809598"	target="513274331"></edge>
+<edge source="383549522"	target="386753206"></edge>
+<edge source="383549522"	target="360748450"></edge>
+<edge source="383549522"	target="355140179"></edge>
+<edge source="383549522"	target="513274331"></edge>
+<edge source="627675257"	target="773944"></edge>
+<edge source="383549522"	target="360748450"></edge>
+<edge source="627675257"	target="245263325"></edge>
+<edge source="627675257"	target="360748450"></edge>
+<edge source="627675257"	target="355140179"></edge>
+<edge source="627675257"	target="257104223"></edge>
+<edge source="627675257"	target="144911505"></edge>
+<edge source="627675257"	target="333545053"></edge>
+<edge source="252749024"	target="773944"></edge>
+<edge source="304257600"	target="773944"></edge>
+<edge source="627675257"	target="246921377"></edge>
+<edge source="627675257"	target="360748450"></edge>
+<edge source="773944"	target="257104223"></edge>
+<edge source="773944"	target="355140179"></edge>
+<edge source="304257600"	target="257104223"></edge>
+<edge source="948241249"	target="773944"></edge>
+<edge source="773944"	target="518824708"></edge>
+<edge source="773944"	target="144911505"></edge>
+<edge source="773944"	target="246921377"></edge>
+
+<!--End Edges-->
+</graph>
+</graphml>

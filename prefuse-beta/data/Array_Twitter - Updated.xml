@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  An excerpt of an egocentric social network  -->
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="directed">
+ 
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="InDegree" for="node" attr.name="InDegree" attr.type="int"/>
+<key id="OutDegree" for="node" attr.name="OutDegree" attr.type="int"/>
+<key id="gender" for="node" attr.name="gender" attr.type="string"/>
+<key id="age" for="node" attr.name="age" attr.type="int"/>
+<key id="weight" for="node" attr.name="weight" attr.type="int"/>
+  
+<!-- nodes -->  
+<node id="536625934">
+ <data key="name">@Frhan8181</data>
+ <data key="InDegree">2</data>
+ <data key="OutDegree">5</data>
+ <data key="gender">M</data>
+ <data key="age">27</data>
+ <data key="weight">87</data>
+ </node>
+<node id="294720696">
+ <data key="name">@Layanhasn</data>
+ <data key="InDegree">9</data>
+ <data key="OutDegree">7</data>
+ <data key="gender">M</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+<!--Second Nodes-->
+<node id="447308615">
+ <data key="name">@Reri21 </data>
+ <data key="InDegree">5</data>
+ <data key="OutDegree">7</data>
+  <data key="gender">M</data>
+ <data key="age">25</data>
+  <data key="weight">70</data>
+</node>
+
+<node id="620089727">
+ <data key="name">@Alnaiafalsaud</data>
+ <data key="InDegree">7</data>
+ <data key="OutDegree">6</data>
+ <data key="gender">M</data>
+ <data key="age">24</data>
+  <data key="weight">77</data>
+</node>
+<!--ThirdNodes-->
+<node id="514438689">
+ <data key="name">@yara1kk</data>
+ <data key="InDegree">2</data>
+ <data key="OutDegree">6</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">48</data>
+</node>
+
+<node id="371538399">
+ <data key="name">@jojo_saud</data>
+ <data key="InDegree">2</data>
+ <data key="OutDegree">6</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">48</data>
+</node>
+
+<!--Saudi News 50-->
+<node id="474886468">
+ <data key="name">@SaudiNews50</data>
+ <data key="InDegree">7</data>
+ <data key="OutDegree">2</data>
+ <data key="gender">F</data>
+ <data key="age">19</data>
+  <data key="weight">62</data>
+</node>
+<!--This's a special Items-->
+<!--Friends-->
+<node id="343984239">
+ <data key="name">@alzaben15</data>
+ <data key="InDegree">2</data>
+ <data key="OutDegree">6</data>
+ <data key="gender">F</data>
+ <data key="age">23</data>
+  <data key="weight">59</data>
+</node>
+<!--alzaben15 Friends-->
+<node id="375594593">
+ <data key="name">@MoshababWaalan</data>
+ <data key="InDegree">2</data>
+ <data key="OutDegree">6</data>
+ <data key="gender">F</data>
+ <data key="age">23</data>
+  <data key="weight">59</data>
+</node>
+<node id="479834483">
+ <data key="name">@NaifWaalan</data>
+ <data key="InDegree">2</data>
+ <data key="OutDegree">6</data>
+ <data key="gender">F</data>
+ <data key="age">23</data>
+  <data key="weight">59</data>
+</node>
+<!--End-->
+<node id="399984827">
+ <data key="name">@ksamoody</data>
+ <data key="InDegree">2</data>
+ <data key="OutDegree">6</data>
+ <data key="gender">F</data>
+ <data key="age">23</data>
+  <data key="weight">59</data>
+</node>
+<node id="447319925">
+ <data key="name">@AbeerAl_Sheikh</data>
+ <data key="InDegree">5</data>
+ <data key="OutDegree">4</data>
+ <data key="gender">M</data>
+ <data key="age">24</data>
+  <data key="weight">60</data>
+</node>
+<node id="444029586">
+ <data key="name">@mohalabdalai</data>
+ <data key="InDegree">4</data>
+ <data key="OutDegree">7</data>
+  <data key="gender">M</data>
+ <data key="age">25</data>
+  <data key="weight">72</data>
+</node>
+
+<!--@mohalabdalai Friends-->
+<node id="305781368">
+ <data key="name">@AliAlturki1433</data>
+ <data key="InDegree">4</data>
+ <data key="OutDegree">7</data>
+  <data key="gender">M</data>
+ <data key="age">25</data>
+  <data key="weight">72</data>
+</node>
+
+<!--End-->
+
+<node id="210132577">
+ <data key="name">@maged7788</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">4</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">59</data>
+</node>
+<node id="244964190">
+ <data key="name">@fofo1001</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+<!--fofo1001 Friends-->
+<node id="165190097">
+ <data key="name">@ahmad2man</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="292516299">
+ <data key="name">@M_2LRABA7</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<!--End-->
+<node id="411584266">
+ <data key="name">@mzuud</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+<!--Mzud Friends-->
+<node id="165410875">
+ <data key="name">@__ReeeM </data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+<!--End-->
+
+<node id="450065634">
+ <data key="name">@norahalotibi</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+
+<node id="220432343">
+ <data key="name">@Abo_moad</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="533352532">
+ <data key="name">@AA65403918</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="473458574">
+ <data key="name">@SomaAbduallah</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="531611080">
+ <data key="name">@abdallhshrane</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="559912600">
+ <data key="name">@mnyma99</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+   
+<node id="402259335">
+ <data key="name">@208Hanooo</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="289587675">
+ <data key="name">@da7omy770</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="359816014">
+ <data key="name">@ysoomah</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+
+<node id="463245227">
+ <data key="name">@abduallrhman100</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="441036464">
+ <data key="name">@GarniAbdullah</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="482403167">
+ <data key="name">@Balnofiei</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="406646952">
+ <data key="name">@AboAdla</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="392272533">
+ <data key="name">@yaahajri</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+
+
+<node id="242030206">
+ <data key="name">@bader136</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+
+<node id="264931815">
+ <data key="name">@DOLCE_87</data>
+ <data key="InDegree">3</data>
+ <data key="OutDegree">3</data>
+ <data key="gender">F</data>
+ <data key="age">25</data>
+  <data key="weight">77</data>
+</node>
+<!--End of Saudi Friends-->
+<!-- edges -->
+<edge source="447308615"	target="620089727"></edge>
+<!--edge source="536625934" target="294720696"></edge-->
+<edge source="294720696" target="536625934"></edge>
+<!--2Friends-->
+<edge source="620089727" target="447308615"></edge>
+<edge source="447308615" target="620089727"></edge>
+<!--3Friends-->
+<edge source="514438689" target="371538399"></edge>
+<edge source="371538399" target="514438689"></edge>
+<!--4Friends-->
+<edge source="371538399" target="474886468" weight="100"></edge>
+<edge source="242030206" target="474886468" weight="100">></edge>
+<edge source="392272533" target="474886468" weight="100">></edge>
+<edge source="406646952" target="474886468" weight="100">></edge>
+<edge source="482403167" target="474886468" weight="100">></edge>
+<edge source="441036464" target="474886468"></edge>
+<edge source="463245227" target="474886468"></edge>
+<edge source="444029586" target="474886468"></edge>
+<edge source="447319925" target="474886468"></edge>
+<edge source="343984239" target="474886468"></edge>
+<edge source="399984827" target="474886468"></edge>
+<edge source="210132577" target="474886468"></edge>
+<edge source="244964190" target="474886468"></edge>
+<edge source="411584266" target="474886468"></edge>
+<edge source="450065634" target="474886468"></edge>
+<edge source="220432343" target="474886468"></edge>
+<edge source="533352532" target="474886468"></edge>
+<edge source="473458574" target="474886468"></edge>
+<edge source="531611080" target="474886468"></edge>
+<edge source="402259335" target="474886468"></edge>
+<edge source="289587675" target="474886468"></edge>
+<edge source="359816014" target="474886468"></edge>
+<edge source="264931815" target="474886468"></edge>
+<edge source="559912600" target="474886468"></edge>
+
+<!--5Friends-->
+<edge source="343984239" target="375594593"></edge>
+<edge source="343984239" target="479834483"></edge>
+<edge source="375594593" target="343984239"></edge>
+<edge source="479834483" target="343984239"></edge>
+<!--6Friend-->
+<edge source="444029586" target="305781368"></edge>
+<edge source="305781368" target="444029586"></edge>
+<!--7Friend-->
+<edge source="305781368" target="210132577"></edge>
+<edge source="210132577" target="305781368"></edge>
+
+<!--8Friend-->
+<edge source="244964190" target="165190097"></edge>
+<edge source="244964190" target="242030206"></edge>
+<edge source="244964190" target="292516299"></edge>
+
+<edge source="411584266" target="165410875"></edge>
+
+</graph>
+</graphml>

@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  An excerpt of an egocentric social network  --> 
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="directed">
+
+<!-- data schema -->
+<key id="name" for="node" attr.name="name" attr.type="string"/>
+<key id="label" for="node" attr.name="label" attr.type="string"/>
+
+<!-- Nodes --><node id="0d68216e-50d3-4f2f-b443-a4fa145fbee1">
+<data key="label">www.alahsaonline.com</data>
+<data key="name">www.alahsaonline.com</data>
+</node>
+
+<node id="e1bd1b1a-3490-4091-bb0e-dda34b22f2a7">
+<data key="label">mrkazksa.com</data>
+<data key="name">mrkazksa.com</data>
+</node>
+
+<node id="597891955">
+<data key="label">مكهرب الاسهم</data>
+<data key="name">مكهرب الاسهم</data>
+</node>
+
+<node id="386753206">
+<data key="label">كنز الاسهم</data>
+<data key="name">كنز الاسهم</data>
+</node>
+
+<node id="359612336">
+<data key="label">Mouammr</data>
+<data key="name">Mouammr</data>
+</node>
+
+<node id="64066799">
+<data key="label">عبدالله الجبلي</data>
+<data key="name">عبدالله الجبلي</data>
+</node>
+
+<node id="440eca1d-7a3f-4dba-8566-e12e2593a409">
+<data key="label">thnfmw.kanda-pf.biz</data>
+<data key="name">thnfmw.kanda-pf.biz</data>
+</node>
+
+<node id="3732b8c2-924d-4860-936e-e95ec080946e">
+<data key="label">www.tvquran.com</data>
+<data key="name">www.tvquran.com</data>
+</node>
+
+<node id="563b4df5-3e41-4f03-9f30-96e74f44948b">
+<data key="label">twitmail.com</data>
+<data key="name">twitmail.com</data>
+</node>
+
+<node id="255936207">
+<data key="label"> عبدالله البراك</data>
+<data key="name"> عبدالله البراك</data>
+</node>
+
+<node id="784c0b48-88a2-400e-96b7-0a18f2b37629">
+<data key="label">answers.yahoo.com</data>
+<data key="name">answers.yahoo.com</data>
+</node>
+
+<node id="f3e4f3db-ef70-4ca0-b9cd-d76d4305e07d">
+<data key="label">en-gb.facebook.com</data>
+<data key="name">en-gb.facebook.com</data>
+</node>
+
+<node id="1e599c3e-c7e6-4d28-bce0-a09c7008060d">
+<data key="label">www.saudisw.com</data>
+<data key="name">www.saudisw.com</data>
+</node>
+
+<node id="d7f7061e-f129-43d5-943e-256e1e7b6041">
+<data key="label">www.traidnt.net</data>
+<data key="name">www.traidnt.net</data>
+</node>
+
+<node id="b800af15-381e-40ed-95d0-2293bcfe8a04">
+<data key="label">forum.tribalwars.ae</data>
+<data key="name">forum.tribalwars.ae</data>
+</node>
+
+<node id="dcfc5e66-32a5-41e5-8ba9-3215b70ee44b">
+<data key="label">jawwad.org</data>
+<data key="name">jawwad.org</data>
+</node>
+
+<node id="491083492">
+<data key="label">الاسهم السعودية</data>
+<data key="name">الاسهم السعودية</data>
+</node>
+
+<node id="1149e49f-afe2-472a-9c2f-a9692cba6370">
+<data key="label">www.alsb3ah.net</data>
+<data key="name">www.alsb3ah.net</data>
+</node>
+
+<node id="a60e0b74-7d18-4b2c-8386-85e60f6d7d6d">
+<data key="label">www.hawanaajd.com</data>
+<data key="name">www.hawanaajd.com</data>
+</node>
+
+<node id="ec62e448-274f-495c-8660-1cabf182f5f4">
+<data key="label">mutdawl.net</data>
+<data key="name">mutdawl.net</data>
+</node>
+
+<node id="b30e382b-7836-42a2-925a-9bfd909f8354">
+<data key="label">www.facebook.com</data>
+<data key="name">www.facebook.com</data>
+</node>
+
+<node id="b91ac8f1-0f27-4a80-9edb-a90233efe385">
+<data key="label">twitter.com</data>
+<data key="name">twitter.com</data>
+</node>
+
+<node id="e8ba460a-bce1-4286-b6f1-43d23d5bc38a">
+<data key="label">www.argaam.com</data>
+<data key="name">www.argaam.com</data>
+</node>
+
+<node id="f2f31d15-815e-45be-8a48-7173e1191c12">
+<data key="label">www.alsharq.net.sa</data>
+<data key="name">www.alsharq.net.sa</data>
+</node>
+
+<node id="69b17ba1-a70f-4bb5-b338-a86a05d3eff3">
+<data key="label">www.saudistocks.com</data>
+<data key="name">www.saudistocks.com</data>
+</node>
+
+<node id="a2b7c426-6e28-43c5-b3eb-4a1954e2e3a3">
+<data key="label">news.saudishare.com</data>
+<data key="name">news.saudishare.com</data>
+</node>
+
+<node id="db206af2-172c-4444-aeb0-5e96144adde6">
+<data key="label">dalil.arbtoday.net</data>
+<data key="name">dalil.arbtoday.net</data>
+</node>
+
+<node id="c6a44c48-bf1c-4940-b5d6-55ac32652c9d">
+<data key="label">www.esgmarkets.com</data>
+<data key="name">www.esgmarkets.com</data>
+</node>
+
+<node id="ab538ec2-1534-4b48-9517-17640e01b70f">
+<data key="label">www.yallakora.com</data>
+<data key="name">www.yallakora.com</data>
+</node>
+
+<node id="d3df97b2-0a67-46ab-bafa-781fd8d952b2">
+<data key="label">webdetail.org</data>
+<data key="name">webdetail.org</data>
+</node>
+
+<node id="27be5e31-6355-40b9-8367-80b2504cbfdf">
+<data key="label">sa.linkedin.com</data>
+<data key="name">sa.linkedin.com</data>
+</node>
+
+<node id="8003ed33-a41a-4fa6-82fe-cb5046713762">
+<data key="label">faculty.ksu.edu.sa</data>
+<data key="name">faculty.ksu.edu.sa</data>
+</node>
+
+<node id="d5945110-fb45-45f9-b710-102c86428907">
+<data key="label">world-acc.net</data>
+<data key="name">world-acc.net</data>
+</node>
+
+<node id="0b878370-361a-4e56-b386-970358beb31e">
+<data key="label">zaish.kau.edu.sa</data>
+<data key="name">zaish.kau.edu.sa</data>
+</node>
+
+<node id="425206878">
+<data key="label">الــــســـهــم</data>
+<data key="name">الــــســـهــم</data>
+</node>
+
+<node id="f144eb76-5d52-44d1-871c-a5fad51cf819">
+<data key="label">mnna3.com</data>
+<data key="name">mnna3.com</data>
+</node>
+
+<node id="1263242a-d2ea-4924-b079-bd7dc249d338">
+<data key="label">www.daoo.org</data>
+<data key="name">www.daoo.org</data>
+</node>
+
+<node id="64f54223-e47c-41eb-8e4f-b1f39ce174a8">
+<data key="label">www.ds-doha.de</data>
+<data key="name">www.ds-doha.de</data>
+</node>
+
+<node id="0f39c66e-c456-4023-affa-2b55004833c8">
+<data key="label">ahmedamiruddin.wordpress.com</data>
+<data key="name">ahmedamiruddin.wordpress.com</data>
+</node>
+
+<node id="79582793-52bc-446c-aca9-7798ff021001">
+<data key="label">www.yabs1.com</data>
+<data key="name">www.yabs1.com</data>
+</node>
+
+<node id="b13faf18-37c7-426c-8005-c6f8e50946e0">
+<data key="label">www.khaled-alfaisal.com</data>
+<data key="name">www.khaled-alfaisal.com</data>
+</node>
+
+<node id="cbe655b2-7c6c-4e22-a301-6f9dcd5dff65">
+<data key="label">goldenarrowsudan.com</data>
+<data key="name">goldenarrowsudan.com</data>
+</node>
+
+<node id="3bf5dabf-4e7e-4585-9b01-e615b75c8aab">
+<data key="label">www.srab7.com</data>
+<data key="name">www.srab7.com</data>
+</node>
+
+<node id="84fec89c-cf83-47fc-9f60-c96c7c2799b2">
+<data key="label">www.z6zz.com</data>
+<data key="name">www.z6zz.com</data>
+</node>
+
+<node id="393144f5-e9a1-4dab-8b3b-c0d699d2078d">
+<data key="label">www.al3ez.net</data>
+<data key="name">www.al3ez.net</data>
+</node>
+
+<node id="b57e2dc3-2fb8-4abc-a115-ebff91d153ad">
+<data key="label">www.alarabi.qa</data>
+<data key="name">www.alarabi.qa</data>
+</node>
+
+<node id="2cba22ac-8b88-403b-9f0c-645a896efe6b">
+<data key="label">www.shm.com.sa</data>
+<data key="name">www.shm.com.sa</data>
+</node>
+
+<node id="d7af21d9-05fe-4a62-a76e-0a6217b4b02b">
+<data key="label">www.mutdawl.net</data>
+<data key="name">www.mutdawl.net</data>
+</node>
+
+<node id="90844061-932e-4f23-b87d-63dce35e3c1f">
+<data key="label">www.amwalnet.com</data>
+<data key="name">www.amwalnet.com</data>
+</node>
+
+<node id="36585f1d-f36c-4305-81fe-b0d7c69d566e">
+<data key="label">www.moaysh.com</data>
+<data key="name">www.moaysh.com</data>
+</node>
+
+<node id="ae1ad702-b810-481f-8335-ba01b9368561">
+<data key="label">www.hawamer.com</data>
+<data key="name">www.hawamer.com</data>
+</node>
+
+<node id="f8b458c9-e300-4f8f-a1bd-f9105cccd654">
+<data key="label">www.alrams.net</data>
+<data key="name">www.alrams.net</data>
+</node>
+
+<node id="862435968">
+<data key="label">هاموره مبتدئه</data>
+<data key="name">هاموره مبتدئه</data>
+</node>
+
+<node id="fcc2662e-937b-4027-bae0-e7a9a360b222">
+<data key="label">www.saudishares.net</data>
+<data key="name">www.saudishares.net</data>
+</node>
+
+<node id="6986581d-81be-468e-9a5a-5845384dfb9f">
+<data key="label">www.web.com</data>
+<data key="name">www.web.com</data>
+</node>
+
+<node id="d5a6b12c-bd8b-48a0-8d9d-ff35773573fa">
+<data key="label">www.expertremodeling.net</data>
+<data key="name">www.expertremodeling.net</data>
+</node>
+
+<node id="663fc204-4b68-44f6-9a0f-aa3ce44cdc3a">
+<data key="label">www.thegulfbiz.com</data>
+<data key="name">www.thegulfbiz.com</data>
+</node>
+
+<node id="254656331">
+<data key="label">الاسهم السعودية </data>
+<data key="name">الاسهم السعودية </data>
+</node>
+
+<node id="111f45a6-c08f-492c-963f-49c085870290">
+<data key="label">www.qassimy.com</data>
+<data key="name">www.qassimy.com</data>
+</node>
+
+<node id="bdd477f6-0d39-4e46-b13e-aa17600b80c9">
+<data key="label">ejabat.google.com</data>
+<data key="name">ejabat.google.com</data>
+</node>
+
+<node id="798a5887-16d2-4335-84dc-c5a126c34cfc">
+<data key="label">www.forexpros.ae</data>
+<data key="name">www.forexpros.ae</data>
+</node>
+
+<node id="fb5d3a6b-5715-4850-8c2b-a66a11b8fd11">
+<data key="label">www.mostshark.net</data>
+<data key="name">www.mostshark.net</data>
+</node>
+
+<node id="443848016">
+<data key="label">سهم1411إداره محافظ</data>
+<data key="name">سهم1411إداره محافظ</data>
+</node>
+
+<node id="2c3467a7-5d76-4698-ac75-bc53c8e9f256">
+<data key="label">forum.fxopen.com</data>
+<data key="name">forum.fxopen.com</data>
+</node>
+
+<node id="a1f0fc29-df4a-425d-8200-21c81f4643e9">
+<data key="label">alsagrsaudi.com</data>
+<data key="name">alsagrsaudi.com</data>
+</node>
+
+<node id="0ba25055-8a0b-41fb-9bfa-3cf42181a36b">
+<data key="label">www.hasanews.com</data>
+<data key="name">www.hasanews.com</data>
+</node>
+
+<node id="90de9ed3-811d-4189-954b-b675b42bbab5">
+<data key="label">easternemara.gov.sa</data>
+<data key="name">easternemara.gov.sa</data>
+</node>
+
+<node id="572108899">
+<data key="label">خميس السعدي</data>
+<data key="name">خميس السعدي</data>
+</node>
+
+<node id="b1f3cd99-e901-4c26-b9ea-c30d50f428ea">
+<data key="label">www.tadawulsa.com</data>
+<data key="name">www.tadawulsa.com</data>
+</node>
+
+<node id="403014777">
+<data key="label">بسام س. العبيد</data>
+<data key="name">بسام س. العبيد</data>
+</node>
+
+<node id="05406f18-0cd5-4a7d-b8b7-c6552d713916">
+<data key="label">www.aawsat.com</data>
+<data key="name">www.aawsat.com</data>
+</node>
+
+<node id="0ba265f3-2827-41bc-a064-ebbbd9963581">
+<data key="label">www.indexes-sa.com</data>
+<data key="name">www.indexes-sa.com</data>
+</node>
+
+<node id="d88fd198-29f2-4e52-aeac-2b6ddb60cacd">
+<data key="label">www.bokstock.com</data>
+<data key="name">www.bokstock.com</data>
+</node>
+
+<node id="60c972b8-336b-4c90-b75d-6036cd7fde73">
+<data key="label">www.anb.com.sa</data>
+<data key="name">www.anb.com.sa</data>
+</node>
+
+<node id="f4e7dafc-16b2-421a-9c69-4e62f1ca5690">
+<data key="label">www.sahmy.com</data>
+<data key="name">www.sahmy.com</data>
+</node>
+
+<node id="ae66634d-ab7f-40ae-8057-716286d8133a">
+<data key="label">fasakonya.blogspot.com</data>
+<data key="name">fasakonya.blogspot.com</data>
+</node>
+
+<node id="7a70ca13-13a0-466b-81f1-805e49acf6a6">
+<data key="label">www.zahran.org</data>
+<data key="name">www.zahran.org</data>
+</node>
+
+<node id="165007533">
+<data key="label">خالد</data>
+<data key="name">خالد</data>
+</node>
+
+<node id="cd9926f0-91e4-4b11-a0b4-20b2459c06b8">
+<data key="label">www.islamweb.net</data>
+<data key="name">www.islamweb.net</data>
+</node>
+
+<node id="0c1a217b-a7f4-4d64-9518-cf1910d7dabe">
+<data key="label">www.alqra-alshrqeah.com</data>
+<data key="name">www.alqra-alshrqeah.com</data>
+</node>
+
+<node id="355b2797-05aa-44fe-93f5-1ed9083cf552">
+<data key="label">www.sea7h.net</data>
+<data key="name">www.sea7h.net</data>
+</node>
+
+<node id="9e062ff0-08f9-4e9c-9846-777be8f555b1">
+<data key="label">www.a-mot.com</data>
+<data key="name">www.a-mot.com</data>
+</node>
+
+<node id="e700879f-d20c-4946-b894-805c9025c8c7">
+<data key="label">www.linkedin.com</data>
+<data key="name">www.linkedin.com</data>
+</node>
+
+<node id="a06af63d-0424-4dd6-9fef-b1c673b2ae7a">
+<data key="label">634sy3.kanda-pf.biz</data>
+<data key="name">634sy3.kanda-pf.biz</data>
+</node>
+
+<node id="68b839e3-2ebf-46bc-853b-7c23ecde400a">
+<data key="label">www.thumbshots.net</data>
+<data key="name">www.thumbshots.net</data>
+</node>
+
+<node id="852f3753-56ca-46e8-bc1f-c1de021be2e9">
+<data key="label">www.vbulletin.com</data>
+<data key="name">www.vbulletin.com</data>
+</node>
+
+<node id="0806d5e9-3c47-4056-bb9a-c9eec68432ea">
+<data key="label">www.girlseduep.gov.sa</data>
+<data key="name">www.girlseduep.gov.sa</data>
+</node>
+
+<node id="349505eb-2184-40b9-8014-aee139adca60">
+<data key="label">www.mubasher.info</data>
+<data key="name">www.mubasher.info</data>
+</node>
+
+<node id="81c0b05f-dea2-42bc-aa78-0ca655712774">
+<data key="label">ar.wikipedia.org</data>
+<data key="name">ar.wikipedia.org</data>
+</node>
+
+<node id="524208371">
+<data key="label">رتويت اسهم</data>
+<data key="name">رتويت اسهم</data>
+</node>
+
+<node id="9a0fcd40-9651-4037-b7a8-f9de92b4f82a">
+<data key="label">www.al-kasser.com</data>
+<data key="name">www.al-kasser.com</data>
+</node>
+
+<node id="0a421399-9333-420d-b688-e00327f98137">
+<data key="label">ar-ar.facebook.com</data>
+<data key="name">ar-ar.facebook.com</data>
+</node>
+
+<node id="9c5e41e9-3fe5-4d7b-a6db-9937b25d822f">
+<data key="label">www.alhasa.gov.sa</data>
+<data key="name">www.alhasa.gov.sa</data>
+</node>
+
+<node id="597e9478-d9ad-4ffa-b4a6-49f602268814">
+<data key="label">topsy.com</data>
+<data key="name">topsy.com</data>
+</node>
+
+<node id="8e41369a-9f43-4718-bab3-f7d83c4ff4b0">
+<data key="label">www.kingsage.ae</data>
+<data key="name">www.kingsage.ae</data>
+</node>
+
+<node id="275072fb-567b-40f1-a822-89907a0d7ca5">
+<data key="label">www.almdares.net</data>
+<data key="name">www.almdares.net</data>
+</node>
+
+<node id="12b1bf64-0df0-4fa5-a418-832b1797d9a0">
+<data key="label">azbul.net</data>
+<data key="name">azbul.net</data>
+</node>
+
+<node id="612329417">
+<data key="label">مؤشر.لمساعدة.المضارب</data>
+<data key="name">مؤشر.لمساعدة.المضارب</data>
+</node>
+
+<node id="361609122">
+<data key="label">محمد العايش</data>
+<data key="name">محمد العايش</data>
+</node>
+
+<node id="6f1cc144-88f5-432c-ad1a-90a73fc9bb07">
+<data key="label">www.alsultanah.com</data>
+<data key="name">www.alsultanah.com</data>
+</node>
+
+<node id="aff34baa-b7cc-4055-b82c-f82ebf693e6c">
+<data key="label">www.bdr130.net</data>
+<data key="name">www.bdr130.net</data>
+</node>
+
+<node id="2e560220-4bbf-4af8-b55f-c27e2ed558be">
+<data key="label">www.tab3ni.com</data>
+<data key="name">www.tab3ni.com</data>
+</node>
+
+<node id="c993e148-1261-444f-bb98-c0173086bee2">
+<data key="label">www.arabydownload.com</data>
+<data key="name">www.arabydownload.com</data>
+</node>
+
+<node id="9362ccfa-9a39-496b-9547-b89b571bfddf">
+<data key="label">www.chillingeffects.org</data>
+<data key="name">www.chillingeffects.org</data>
+</node>
+
+<node id="f6d9100f-64d2-4884-a8e7-15f9bdaf9f5a">
+<data key="label">www.albayan.ae</data>
+<data key="name">www.albayan.ae</data>
+</node>
+
+<node id="d23086d7-82a3-4558-9781-7733825a98bf">
+<data key="label">www.sharq.cc</data>
+<data key="name">www.sharq.cc</data>
+</node>
+
+<node id="eee49777-6e2a-472f-8419-b498a36a7c6b">
+<data key="label">hasanews.com</data>
+<data key="name">hasanews.com</data>
+</node>
+
+<node id="2f15a55d-5a00-480e-8288-c0c25b25c83d">
+<data key="label">www.tadawul.com.sa</data>
+<data key="name">www.tadawul.com.sa</data>
+</node>
+
+<node id="d3c50266-228c-46f0-8489-df2b54c1c592">
+<data key="label">www.bni3mro.com</data>
+<data key="name">www.bni3mro.com</data>
+</node>
+
+<node id="3d2b43c1-d70c-42fa-9042-3fb87c1c800d">
+<data key="label">www.aswaq1.com</data>
+<data key="name">www.aswaq1.com</data>
+</node>
+
+<node id="360223185">
+<data key="label">أ. العربي </data>
+<data key="name">أ. العربي </data>
+</node>
+
+<node id="7d6feec5-2d56-4fd2-87ae-b651c8b5944e">
+<data key="label">www.ala7ebah.com</data>
+<data key="name">www.ala7ebah.com</data>
+</node>
+
+<node id="256419571">
+<data key="label">فؤاد الملحم</data>
+<data key="name">فؤاد الملحم</data>
+</node>
+
+<node id="2a4aafbf-41a3-4f3a-abab-ab2584b300ed">
+<data key="label">skfupm.kfupm.edu.sa</data>
+<data key="name">skfupm.kfupm.edu.sa</data>
+</node>
+
+<node id="ba8f1826-4719-4222-8aaf-842dc71c53f6">
+<data key="label">www.shura.gov.sa</data>
+<data key="name">www.shura.gov.sa</data>
+</node>
+
+<node id="5ad74a10-a70d-4e78-9f94-21d8f2710f40">
+<data key="label">mrwhatis.com</data>
+<data key="name">mrwhatis.com</data>
+</node>
+
+<node id="f2c59bc2-157a-458b-9a49-025adbeb3054">
+<data key="label">www.toyota4arab.com</data>
+<data key="name">www.toyota4arab.com</data>
+</node>
+
+<node id="cb0c3d30-a52c-4cab-b9b9-e77f3dba96da">
+<data key="label">wikimapia.org</data>
+<data key="name">wikimapia.org</data>
+</node>
+
+<node id="dfb0f26a-da5f-43e7-9af6-3fb268f7b648">
+<data key="label">forums.saudistocks.com</data>
+<data key="name">forums.saudistocks.com</data>
+</node>
+
+<node id="0b571df8-ce2e-402d-88d1-b12e5a857f30">
+<data key="label">twtrland.com</data>
+<data key="name">twtrland.com</data>
+</node>
+
+<node id="168a0358-2544-4240-a69b-a24e7f633529">
+<data key="label">www.gwu.ae</data>
+<data key="name">www.gwu.ae</data>
+</node>
+
+<node id="2eec0dc3-282b-4a7b-a427-d44b40ccdd5f">
+<data key="label">www.blqarn.net</data>
+<data key="name">www.blqarn.net</data>
+</node>
+
+<node id="cd637204-d8e1-4856-901b-1af979afbdd6">
+<data key="label">www.al-rmal.com</data>
+<data key="name">www.al-rmal.com</data>
+</node>
+
+<node id="179279363">
+<data key="label">مانع القرني</data>
+<data key="name">مانع القرني</data>
+</node>
+
+<node id="dd305991-5874-4169-b464-a0bd3823a087">
+<data key="label">alquds.co.uk</data>
+<data key="name">alquds.co.uk</data>
+</node>
+
+<node id="3231b277-8740-4a9a-add5-91d98ec7d9e6">
+<data key="label">www.alyaum.com</data>
+<data key="name">www.alyaum.com</data>
+</node>
+
+<node id="1bbed747-6696-4526-ba27-b1dae80c3842">
+<data key="label">www.qwled.com</data>
+<data key="name">www.qwled.com</data>
+</node>
+
+<node id="a69c7847-5276-4c79-9590-f196c4eb14b1">
+<data key="label">www.6rb.com</data>
+<data key="name">www.6rb.com</data>
+</node>
+
+<node id="4c5870e6-4db5-41b5-ad40-5874d269efbf">
+<data key="label">www.youtube.com</data>
+<data key="name">www.youtube.com</data>
+</node>
+
+<node id="f398ef8e-8d23-4a07-8a90-b1b8e1d3b9b0">
+<data key="label">www.sauress.com</data>
+<data key="name">www.sauress.com</data>
+</node>
+
+<node id="3eb23a30-e642-4ec2-89c1-27c568d3ee34">
+<data key="label">en.wikipedia.org</data>
+<data key="name">en.wikipedia.org</data>
+</node>
+
+<node id="49af7dbe-9fee-457e-8235-8830d957ac45">
+<data key="label">www.abu-himed.com</data>
+<data key="name">www.abu-himed.com</data>
+</node>
+
+<node id="0d2f8da9-e13a-4bfa-bd2d-613c2f8b0f8a">
+<data key="label">falaish.kau.edu.sa</data>
+<data key="name">falaish.kau.edu.sa</data>
+</node>
+
+<node id="e578813a-f21e-4b79-9a9f-8b0cc8b3e9ae">
+<data key="label">forum.moe.gov.om</data>
+<data key="name">forum.moe.gov.om</data>
+</node>
+
+<node id="75cc8fd4-5d91-4958-8685-e2b4466130d4">
+<data key="label">www.ow-news.com</data>
+<data key="name">www.ow-news.com</data>
+</node>
+
+<node id="3a8996cd-ef85-43e4-b030-9764662a4730">
+<data key="label">www.al-ashom.com</data>
+<data key="name">www.al-ashom.com</data>
+</node>
+
+<node id="a982d175-23c1-4126-ad0e-5722c7117524">
+<data key="label">www.google.com.sa</data>
+<data key="name">www.google.com.sa</data>
+</node>
+
+<node id="15085a11-289a-4b20-a4ef-126ff83c6a55">
+<data key="label">www.aalawad.com</data>
+<data key="name">www.aalawad.com</data>
+</node>
+
+<node id="ed0023fd-7b05-4ce0-9f78-78c911e2bb8d">
+<data key="label">www.alkhobartimes.com</data>
+<data key="name">www.alkhobartimes.com</data>
+</node>
+
+<node id="284b41e4-4025-4ba1-bbb4-2029334806bf">
+<data key="label">jemail.150m.com</data>
+<data key="name">jemail.150m.com</data>
+</node>
+
+<node id="255078236">
+<data key="label">Mutlaq Albuqami</data>
+<data key="name">Mutlaq Albuqami</data>
+</node>
+
+<node id="d89b8f79-fe39-48f3-8008-4ae7cb4052d3">
+<data key="label">www.aljblan.net</data>
+<data key="name">www.aljblan.net</data>
+</node>
+
+
+
+<!-- EndNodes -->
+<!-- Edges -->
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="b30e382b-7836-42a2-925a-9bfd909f8354"></edge>
+<edge source="111f45a6-c08f-492c-963f-49c085870290"	target="425206878"></edge>
+<edge source="cb0c3d30-a52c-4cab-b9b9-e77f3dba96da"	target="255936207"></edge>
+<edge source="0c1a217b-a7f4-4d64-9518-cf1910d7dabe"	target="256419571"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="64066799"></edge>
+<edge source="f398ef8e-8d23-4a07-8a90-b1b8e1d3b9b0"	target="572108899"></edge>
+<edge source="663fc204-4b68-44f6-9a0f-aa3ce44cdc3a"	target="254656331"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="179279363"></edge>
+<edge source="81c0b05f-dea2-42bc-aa78-0ca655712774"	target="425206878"></edge>
+<edge source="393144f5-e9a1-4dab-8b3b-c0d699d2078d"	target="3732b8c2-924d-4860-936e-e95ec080946e"></edge>
+<edge source="597e9478-d9ad-4ffa-b4a6-49f602268814"	target="524208371"></edge>
+<edge source="284b41e4-4025-4ba1-bbb4-2029334806bf"	target="572108899"></edge>
+<edge source="81c0b05f-dea2-42bc-aa78-0ca655712774"	target="361609122"></edge>
+<edge source="d5a6b12c-bd8b-48a0-8d9d-ff35773573fa"	target="8e41369a-9f43-4718-bab3-f7d83c4ff4b0"></edge>
+<edge source="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"	target="3a8996cd-ef85-43e4-b030-9764662a4730"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="255936207"></edge>
+<edge source="3a8996cd-ef85-43e4-b030-9764662a4730"	target="491083492"></edge>
+<edge source="d7f7061e-f129-43d5-943e-256e1e7b6041"	target="fcc2662e-937b-4027-bae0-e7a9a360b222"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="1e599c3e-c7e6-4d28-bce0-a09c7008060d"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="359612336"></edge>
+<edge source="7a70ca13-13a0-466b-81f1-805e49acf6a6"	target="361609122"></edge>
+<edge source="563b4df5-3e41-4f03-9f30-96e74f44948b"	target="179279363"></edge>
+<edge source="0a421399-9333-420d-b688-e00327f98137"	target="359612336"></edge>
+<edge source="81c0b05f-dea2-42bc-aa78-0ca655712774"	target="165007533"></edge>
+<edge source="0a421399-9333-420d-b688-e00327f98137"	target="255078236"></edge>
+<edge source="75cc8fd4-5d91-4958-8685-e2b4466130d4"	target="361609122"></edge>
+<edge source="c6a44c48-bf1c-4940-b5d6-55ac32652c9d"	target="b30e382b-7836-42a2-925a-9bfd909f8354"></edge>
+<edge source="ae1ad702-b810-481f-8335-ba01b9368561"	target="64066799"></edge>
+<edge source="a69c7847-5276-4c79-9590-f196c4eb14b1"	target="165007533"></edge>
+<edge source="f8b458c9-e300-4f8f-a1bd-f9105cccd654"	target="64066799"></edge>
+<edge source="68b839e3-2ebf-46bc-853b-7c23ecde400a"	target="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"></edge>
+<edge source="3a8996cd-ef85-43e4-b030-9764662a4730"	target="254656331"></edge>
+<edge source="0b571df8-ce2e-402d-88d1-b12e5a857f30"	target="359612336"></edge>
+<edge source="eee49777-6e2a-472f-8419-b498a36a7c6b"	target="256419571"></edge>
+<edge source="597e9478-d9ad-4ffa-b4a6-49f602268814"	target="255078236"></edge>
+<edge source="dcfc5e66-32a5-41e5-8ba9-3215b70ee44b"	target="1e599c3e-c7e6-4d28-bce0-a09c7008060d"></edge>
+<edge source="a1f0fc29-df4a-425d-8200-21c81f4643e9"	target="2f15a55d-5a00-480e-8288-c0c25b25c83d"></edge>
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="3732b8c2-924d-4860-936e-e95ec080946e"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="255078236"></edge>
+<edge source="49af7dbe-9fee-457e-8235-8830d957ac45"	target="dd305991-5874-4169-b464-a0bd3823a087"></edge>
+<edge source="db206af2-172c-4444-aeb0-5e96144adde6"	target="fcc2662e-937b-4027-bae0-e7a9a360b222"></edge>
+<edge source="2f15a55d-5a00-480e-8288-c0c25b25c83d"	target="2f15a55d-5a00-480e-8288-c0c25b25c83d"></edge>
+<edge source="b1f3cd99-e901-4c26-b9ea-c30d50f428ea"	target="3a8996cd-ef85-43e4-b030-9764662a4730"></edge>
+<edge source="e8ba460a-bce1-4286-b6f1-43d23d5bc38a"	target="359612336"></edge>
+<edge source="d23086d7-82a3-4558-9781-7733825a98bf"	target="255936207"></edge>
+<edge source="e700879f-d20c-4946-b894-805c9025c8c7"	target="255078236"></edge>
+<edge source="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"	target="254656331"></edge>
+<edge source="d88fd198-29f2-4e52-aeac-2b6ddb60cacd"	target="862435968"></edge>
+<edge source="0f39c66e-c456-4023-affa-2b55004833c8"	target="b13faf18-37c7-426c-8005-c6f8e50946e0"></edge>
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="165007533"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="cd9926f0-91e4-4b11-a0b4-20b2459c06b8"></edge>
+<edge source="05406f18-0cd5-4a7d-b8b7-c6552d713916"	target="255078236"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="524208371"></edge>
+<edge source="440eca1d-7a3f-4dba-8566-e12e2593a409"	target="b57e2dc3-2fb8-4abc-a115-ebff91d153ad"></edge>
+<edge source="1149e49f-afe2-472a-9c2f-a9692cba6370"	target="361609122"></edge>
+<edge source="f3e4f3db-ef70-4ca0-b9cd-d76d4305e07d"	target="b30e382b-7836-42a2-925a-9bfd909f8354"></edge>
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="255078236"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="b30e382b-7836-42a2-925a-9bfd909f8354"></edge>
+<edge source="d3c50266-228c-46f0-8489-df2b54c1c592"	target="179279363"></edge>
+<edge source="36585f1d-f36c-4305-81fe-b0d7c69d566e"	target="361609122"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="572108899"></edge>
+<edge source="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"	target="491083492"></edge>
+<edge source="2f15a55d-5a00-480e-8288-c0c25b25c83d"	target="254656331"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"></edge>
+<edge source="e1bd1b1a-3490-4091-bb0e-dda34b22f2a7"	target="862435968"></edge>
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="dd305991-5874-4169-b464-a0bd3823a087"></edge>
+<edge source="3732b8c2-924d-4860-936e-e95ec080946e"	target="165007533"></edge>
+<edge source="9c5e41e9-3fe5-4d7b-a6db-9937b25d822f"	target="256419571"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="612329417"></edge>
+<edge source="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"	target="386753206"></edge>
+<edge source="fcc2662e-937b-4027-bae0-e7a9a360b222"	target="597891955"></edge>
+<edge source="f6d9100f-64d2-4884-a8e7-15f9bdaf9f5a"	target="572108899"></edge>
+<edge source="349505eb-2184-40b9-8014-aee139adca60"	target="425206878"></edge>
+<edge source="bdd477f6-0d39-4e46-b13e-aa17600b80c9"	target="64066799"></edge>
+<edge source="90de9ed3-811d-4189-954b-b675b42bbab5"	target="255936207"></edge>
+<edge source="f2f31d15-815e-45be-8a48-7173e1191c12"	target="256419571"></edge>
+<edge source="597e9478-d9ad-4ffa-b4a6-49f602268814"	target="359612336"></edge>
+<edge source="a06af63d-0424-4dd6-9fef-b1c673b2ae7a"	target="8e41369a-9f43-4718-bab3-f7d83c4ff4b0"></edge>
+<edge source="ed0023fd-7b05-4ce0-9f78-78c911e2bb8d"	target="179279363"></edge>
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="359612336"></edge>
+<edge source="3bf5dabf-4e7e-4585-9b01-e615b75c8aab"	target="256419571"></edge>
+<edge source="8e41369a-9f43-4718-bab3-f7d83c4ff4b0"	target="360223185"></edge>
+<edge source="ab538ec2-1534-4b48-9517-17640e01b70f"	target="b57e2dc3-2fb8-4abc-a115-ebff91d153ad"></edge>
+<edge source="fcc2662e-937b-4027-bae0-e7a9a360b222"	target="fcc2662e-937b-4027-bae0-e7a9a360b222"></edge>
+<edge source="fcc2662e-937b-4027-bae0-e7a9a360b222"	target="254656331"></edge>
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="3a8996cd-ef85-43e4-b030-9764662a4730"></edge>
+<edge source="2a4aafbf-41a3-4f3a-abab-ab2584b300ed"	target="386753206"></edge>
+<edge source="d7af21d9-05fe-4a62-a76e-0a6217b4b02b"	target="360223185"></edge>
+<edge source="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"	target="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"></edge>
+<edge source="cbe655b2-7c6c-4e22-a301-6f9dcd5dff65"	target="425206878"></edge>
+<edge source="c993e148-1261-444f-bb98-c0173086bee2"	target="360223185"></edge>
+<edge source="b800af15-381e-40ed-95d0-2293bcfe8a04"	target="8e41369a-9f43-4718-bab3-f7d83c4ff4b0"></edge>
+<edge source="27be5e31-6355-40b9-8367-80b2504cbfdf"	target="255078236"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="386753206"></edge>
+<edge source="ec62e448-274f-495c-8660-1cabf182f5f4"	target="386753206"></edge>
+<edge source="c6a44c48-bf1c-4940-b5d6-55ac32652c9d"	target="3732b8c2-924d-4860-936e-e95ec080946e"></edge>
+<edge source="ae1ad702-b810-481f-8335-ba01b9368561"	target="386753206"></edge>
+<edge source="dd305991-5874-4169-b464-a0bd3823a087"	target="360223185"></edge>
+<edge source="8003ed33-a41a-4fa6-82fe-cb5046713762"	target="255936207"></edge>
+<edge source="a2b7c426-6e28-43c5-b3eb-4a1954e2e3a3"	target="425206878"></edge>
+<edge source="0d68216e-50d3-4f2f-b443-a4fa145fbee1"	target="256419571"></edge>
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="b13faf18-37c7-426c-8005-c6f8e50946e0"></edge>
+<edge source="81c0b05f-dea2-42bc-aa78-0ca655712774"	target="360223185"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="425206878"></edge>
+<edge source="e578813a-f21e-4b79-9a9f-8b0cc8b3e9ae"	target="572108899"></edge>
+<edge source="6f1cc144-88f5-432c-ad1a-90a73fc9bb07"	target="572108899"></edge>
+<edge source="b30e382b-7836-42a2-925a-9bfd909f8354"	target="255936207"></edge>
+<edge source="349505eb-2184-40b9-8014-aee139adca60"	target="491083492"></edge>
+<edge source="d3df97b2-0a67-46ab-bafa-781fd8d952b2"	target="8e41369a-9f43-4718-bab3-f7d83c4ff4b0"></edge>
+<edge source="2cba22ac-8b88-403b-9f0c-645a896efe6b"	target="425206878"></edge>
+<edge source="d89b8f79-fe39-48f3-8008-4ae7cb4052d3"	target="64066799"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="69b17ba1-a70f-4bb5-b338-a86a05d3eff3"></edge>
+<edge source="cd9926f0-91e4-4b11-a0b4-20b2459c06b8"	target="165007533"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="349505eb-2184-40b9-8014-aee139adca60"></edge>
+<edge source="79582793-52bc-446c-aca9-7798ff021001"	target="64066799"></edge>
+<edge source="1e599c3e-c7e6-4d28-bce0-a09c7008060d"	target="425206878"></edge>
+<edge source="a69c7847-5276-4c79-9590-f196c4eb14b1"	target="b30e382b-7836-42a2-925a-9bfd909f8354"></edge>
+<edge source="0ba265f3-2827-41bc-a064-ebbbd9963581"	target="862435968"></edge>
+<edge source="fcc2662e-937b-4027-bae0-e7a9a360b222"	target="491083492"></edge>
+<edge source="9e062ff0-08f9-4e9c-9846-777be8f555b1"	target="165007533"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="359612336"></edge>
+<edge source="d7af21d9-05fe-4a62-a76e-0a6217b4b02b"	target="386753206"></edge>
+<edge source="60c972b8-336b-4c90-b75d-6036cd7fde73"	target="360223185"></edge>
+<edge source="798a5887-16d2-4335-84dc-c5a126c34cfc"	target="254656331"></edge>
+<edge source="ae66634d-ab7f-40ae-8057-716286d8133a"	target="b30e382b-7836-42a2-925a-9bfd909f8354"></edge>
+<edge source="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"	target="597891955"></edge>
+<edge source="90844061-932e-4f23-b87d-63dce35e3c1f"	target="597891955"></edge>
+<edge source="355b2797-05aa-44fe-93f5-1ed9083cf552"	target="3a8996cd-ef85-43e4-b030-9764662a4730"></edge>
+<edge source="a982d175-23c1-4126-ad0e-5722c7117524"	target="2f15a55d-5a00-480e-8288-c0c25b25c83d"></edge>
+<edge source="7d6feec5-2d56-4fd2-87ae-b651c8b5944e"	target="69b17ba1-a70f-4bb5-b338-a86a05d3eff3"></edge>
+<edge source="0ba25055-8a0b-41fb-9bfa-3cf42181a36b"	target="256419571"></edge>
+<edge source="a60e0b74-7d18-4b2c-8386-85e60f6d7d6d"	target="425206878"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="b57e2dc3-2fb8-4abc-a115-ebff91d153ad"></edge>
+<edge source="1263242a-d2ea-4924-b079-bd7dc249d338"	target="256419571"></edge>
+<edge source="84fec89c-cf83-47fc-9f60-c96c7c2799b2"	target="255936207"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="443848016"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="361609122"></edge>
+<edge source="ba8f1826-4719-4222-8aaf-842dc71c53f6"	target="255936207"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="360223185"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="a69c7847-5276-4c79-9590-f196c4eb14b1"></edge>
+<edge source="5ad74a10-a70d-4e78-9f94-21d8f2710f40"	target="fcc2662e-937b-4027-bae0-e7a9a360b222"></edge>
+<edge source="3eb23a30-e642-4ec2-89c1-27c568d3ee34"	target="dd305991-5874-4169-b464-a0bd3823a087"></edge>
+<edge source="dfb0f26a-da5f-43e7-9af6-3fb268f7b648"	target="597891955"></edge>
+<edge source="cd637204-d8e1-4856-901b-1af979afbdd6"	target="572108899"></edge>
+<edge source="798a5887-16d2-4335-84dc-c5a126c34cfc"	target="491083492"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="b13faf18-37c7-426c-8005-c6f8e50946e0"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="862435968"></edge>
+<edge source="12b1bf64-0df0-4fa5-a418-832b1797d9a0"	target="349505eb-2184-40b9-8014-aee139adca60"></edge>
+<edge source="0b878370-361a-4e56-b386-970358beb31e"	target="361609122"></edge>
+<edge source="3d2b43c1-d70c-42fa-9042-3fb87c1c800d"	target="597891955"></edge>
+<edge source="c6a44c48-bf1c-4940-b5d6-55ac32652c9d"	target="36585f1d-f36c-4305-81fe-b0d7c69d566e"></edge>
+<edge source="3eb23a30-e642-4ec2-89c1-27c568d3ee34"	target="fcc2662e-937b-4027-bae0-e7a9a360b222"></edge>
+<edge source="dcfc5e66-32a5-41e5-8ba9-3215b70ee44b"	target="2f15a55d-5a00-480e-8288-c0c25b25c83d"></edge>
+<edge source="275072fb-567b-40f1-a822-89907a0d7ca5"	target="572108899"></edge>
+<edge source="d7af21d9-05fe-4a62-a76e-0a6217b4b02b"	target="862435968"></edge>
+<edge source="168a0358-2544-4240-a69b-a24e7f633529"	target="64066799"></edge>
+<edge source="2c3467a7-5d76-4698-ac75-bc53c8e9f256"	target="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"></edge>
+<edge source="69b17ba1-a70f-4bb5-b338-a86a05d3eff3"	target="491083492"></edge>
+<edge source="c6a44c48-bf1c-4940-b5d6-55ac32652c9d"	target="349505eb-2184-40b9-8014-aee139adca60"></edge>
+<edge source="15085a11-289a-4b20-a4ef-126ff83c6a55"	target="255936207"></edge>
+<edge source="f144eb76-5d52-44d1-871c-a5fad51cf819"	target="179279363"></edge>
+<edge source="2f15a55d-5a00-480e-8288-c0c25b25c83d"	target="491083492"></edge>
+<edge source="b57e2dc3-2fb8-4abc-a115-ebff91d153ad"	target="360223185"></edge>
+<edge source="fb5d3a6b-5715-4850-8c2b-a66a11b8fd11"	target="862435968"></edge>
+<edge source="0ba265f3-2827-41bc-a064-ebbbd9963581"	target="360223185"></edge>
+<edge source="2eec0dc3-282b-4a7b-a427-d44b40ccdd5f"	target="179279363"></edge>
+<edge source="cb0c3d30-a52c-4cab-b9b9-e77f3dba96da"	target="361609122"></edge>
+<edge source="dfb0f26a-da5f-43e7-9af6-3fb268f7b648"	target="386753206"></edge>
+<edge source="784c0b48-88a2-400e-96b7-0a18f2b37629"	target="b30e382b-7836-42a2-925a-9bfd909f8354"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="862435968"></edge>
+<edge source="69b17ba1-a70f-4bb5-b338-a86a05d3eff3"	target="254656331"></edge>
+<edge source="f2c59bc2-157a-458b-9a49-025adbeb3054"	target="64066799"></edge>
+<edge source="d5945110-fb45-45f9-b710-102c86428907"	target="69b17ba1-a70f-4bb5-b338-a86a05d3eff3"></edge>
+<edge source="6986581d-81be-468e-9a5a-5845384dfb9f"	target="2f15a55d-5a00-480e-8288-c0c25b25c83d"></edge>
+<edge source="349505eb-2184-40b9-8014-aee139adca60"	target="254656331"></edge>
+<edge source="852f3753-56ca-46e8-bc1f-c1de021be2e9"	target="69b17ba1-a70f-4bb5-b338-a86a05d3eff3"></edge>
+<edge source="b13faf18-37c7-426c-8005-c6f8e50946e0"	target="165007533"></edge>
+<edge source="3732b8c2-924d-4860-936e-e95ec080946e"	target="3732b8c2-924d-4860-936e-e95ec080946e"></edge>
+<edge source="ec62e448-274f-495c-8660-1cabf182f5f4"	target="597891955"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="b13faf18-37c7-426c-8005-c6f8e50946e0"></edge>
+<edge source="dd305991-5874-4169-b464-a0bd3823a087"	target="dd305991-5874-4169-b464-a0bd3823a087"></edge>
+<edge source="2e560220-4bbf-4af8-b55f-c27e2ed558be"	target="524208371"></edge>
+<edge source="4c5870e6-4db5-41b5-ad40-5874d269efbf"	target="256419571"></edge>
+<edge source="aff34baa-b7cc-4055-b82c-f82ebf693e6c"	target="165007533"></edge>
+<edge source="b91ac8f1-0f27-4a80-9edb-a90233efe385"	target="403014777"></edge>
+<edge source="3231b277-8740-4a9a-add5-91d98ec7d9e6"	target="64066799"></edge>
+<edge source="9362ccfa-9a39-496b-9547-b89b571bfddf"	target="1e599c3e-c7e6-4d28-bce0-a09c7008060d"></edge>
+<edge source="8003ed33-a41a-4fa6-82fe-cb5046713762"	target="f4e7dafc-16b2-421a-9c69-4e62f1ca5690"></edge>
+<edge source="663fc204-4b68-44f6-9a0f-aa3ce44cdc3a"	target="491083492"></edge>
+<edge source="64f54223-e47c-41eb-8e4f-b1f39ce174a8"	target="b57e2dc3-2fb8-4abc-a115-ebff91d153ad"></edge>
+<edge source="1bbed747-6696-4526-ba27-b1dae80c3842"	target="597891955"></edge>
+<edge source="9a0fcd40-9651-4037-b7a8-f9de92b4f82a"	target="69b17ba1-a70f-4bb5-b338-a86a05d3eff3"></edge>
+<edge source="0806d5e9-3c47-4056-bb9a-c9eec68432ea"	target="179279363"></edge>
+<edge source="0d2f8da9-e13a-4bfa-bd2d-613c2f8b0f8a"	target="361609122"></edge>
+
+<!--End Edges-->
+</graph>
+</graphml>
